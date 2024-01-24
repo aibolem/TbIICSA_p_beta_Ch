@@ -10,9 +10,9 @@
 
 more on gitbook: https://github.com/barionleg/cellular-automata-post/wiki/Molecular‐Mass‐Calculator
 
-my gen on gitbook
+way to Molecular‐Mass‐Calculator wiki link
 
-![image](https://github.com/aibolem/TbIICSA_p_beta_Ch/assets/102619282/68b20624-24cf-4c6e-86bb-43d38f7ecb31)
+![image](https://github.com/aibolem/TbIICSA_p_beta_Ch/assets/102619282/78d2200b-a5c3-4a36-ab37-2f9029d0272b)
 
 
 
