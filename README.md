@@ -8,7 +8,7 @@
 
 ![₽ ©hЭ€ TbIiCSÅ](https://raw.githubusercontent.com/aibolem/TbIICSA_p_beta_Ch/main/4O%C2%A9TblICA%C2%AE'.png)
 
-more on gitbook: https://github.com/barionleg/cellular-automata-post/wiki/Molecular‐Mass‐Calculator
+more: https://github.com/barionleg/cellular-automata-post/wiki/Molecular‐Mass‐Calculator
 
 way to Molecular‐Mass‐Calculator wiki link on Cellular Automata Post rep.
 
