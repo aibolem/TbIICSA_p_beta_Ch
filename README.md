@@ -7,3 +7,13 @@
 мяу, как говориться в ТАЙГЕ!
 
 ![₽ ©hЭ€ TbIiCSÅ](https://raw.githubusercontent.com/aibolem/TbIICSA_p_beta_Ch/main/4O%C2%A9TblICA%C2%AE'.png)
+
+more on gitbook: https://github.com/barionleg/cellular-automata-post/wiki/Molecular‐Mass‐Calculator
+
+my gen on gitbook
+
+![image](https://github.com/aibolem/TbIICSA_p_beta_Ch/assets/102619282/68b20624-24cf-4c6e-86bb-43d38f7ecb31)
+
+
+
+
